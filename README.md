@@ -6,13 +6,13 @@ I have a Master of Science in Computer Science from Florida Atlantic University 
 ## **Featured Projects**
 
 ### **Music Recommendation System**
-Leveraged machine learning and regression modeling to forecast housing prices, uncover key price drivers and enhance investment insights.
+Developed a hybrid music recommendation system by analyzing user behavior and song attributes with 60% accuracy
 
 ### **Amazon Recommendation System**
-Utilized machine learning models to forecast store profitability for investment decision-making in the retail sector.
+Applied collaborative and content-based filtering to predict user preferences with over 85% accuracy.
 
 ### **FoodHub Data Analysis**
-Analyzed decadal climate patterns using NOAA's GSOD data and geospatial visualizations with ArcGIS.
+Performed data analysis using food delivery application data to find insights and future recommendations for the company.
 
 ## **Skills & Technologies**
 🔹Programming & Data Analysis: Python (Pandas, NumPy, Scikit-Learn), SQL, R
