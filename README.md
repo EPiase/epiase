@@ -6,7 +6,7 @@ I have a Master of Science in Computer Science from Florida Atlantic University 
 ## **Featured Projects**
 
 ### **Music Recommendation System**
-Developed a hybrid music recommendation system by analyzing user behavior and song attributes with 60% accuracy
+Developed a hybrid music recommendation system by analyzing user behavior and song attributes with 60% accuracy.
 
 ### **Amazon Recommendation System**
 Applied collaborative and content-based filtering to predict user preferences with over 85% accuracy.
