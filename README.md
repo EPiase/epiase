@@ -15,10 +15,10 @@ Utilized machine learning models to forecast store profitability for investment 
 Analyzed decadal climate patterns using NOAA's GSOD data and geospatial visualizations with ArcGIS.
 
 ## **Skills & Technologies**
-✔ Programming & Data Analysis: Python (Pandas, NumPy, Scikit-Learn), SQL, R
-✔ Machine Learning & AI: Deep Learning, Time Series Forecasting, Recommendation Systems, Natural Language Processing
-✔ Data Visualization: Tableau, Power BI, Matplotlib, Seaborn
-✔ Big Data & Cloud: AWS, Snowflake, Databricks
+🔹Programming & Data Analysis: Python (Pandas, NumPy, Scikit-Learn), SQL, R
+🔹Machine Learning & AI: Deep Learning, Time Series Forecasting, Recommendation Systems, Natural Language Processing
+🔹Data Visualization: Tableau, Power BI, Matplotlib, Seaborn
+🔹Big Data & Cloud: AWS, Snowflake, Databricks
 
 ### **Algorithms I Have Experience With**
 I have worked with a wide range of machine learning, deep learning, and statistical algorithms, applying them to real-world datasets across finance, marketing, business analytics, and climate science. Below is a categorized list of the algorithms I have experience with:
@@ -68,4 +68,4 @@ I have applied these algorithms using Python (Scikit-Learn, TensorFlow, PyTorch,
 🔹📧 Email: ericspiasentin@gmail.com
 🔹💼 LinkedIn: linkedin.com/in/epiasentin
 
-Looking for exciting data science collaborations or career opportunities? Feel free to reach out—I’d love to chat! 🚀
+Looking for exciting data science collaborations or career opportunities? Feel free to reach out—I’d love to chat!
